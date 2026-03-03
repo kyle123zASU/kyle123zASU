@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to my Github for ASU! I am a student studying graphic design and computer science 
-<img src="Game Day GIF by Arizona State University.gif">
+<img hieght="500" width="250" src="Game Day GIF by Arizona State University.gif">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyle123zASU&theme=tokyonight" alt="mystreak"/>
 
 
