@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my Github for ASU! I am a student studying graphic design and computer science 
+## Hi there 👋 Welcome to my Github for ASU! I am a student studying graphic design and computer science. I want to create audio visual applications and websites/webapps after graduation. Computer science aligns with my passions of video games and music. Some other technical skills include audio synthesis and am currently pursuing interest in hardware and arduino/Rapsberry Pi 
 <img hieght="500" width="250" src="Game Day GIF by Arizona State University.gif">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyle123zASU&theme=tokyonight" alt="mystreak"/>
 
